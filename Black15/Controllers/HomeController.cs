@@ -26,6 +26,8 @@ namespace Black15.Controllers
         {
             ViewBag.Message = "Your contact page.";
 
+            // Comment Test for git
+
             return View();
         }
     }
